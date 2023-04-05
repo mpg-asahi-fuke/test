@@ -13,3 +13,4 @@ jobs:
             mkdir test!
             cd test!
             echo "a" >> aaa.txt
+            cat aaa.txt
